@@ -16,3 +16,6 @@ Grok expression that extract the collection field.
 	    }
 	}
 
+## 
+
+Please, If you have improvements in that Grok parse, let me know please. Feel you free to update this repository.
